@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.16.0](https://www.github.com/looker-open-source/sdk-codegen/compare/sdk-codegen-all-v1.15.0...sdk-codegen-all-v1.16.0) (2021-09-03)
+
+
+### Features
+
+* closest path match for API Explorer ([#811](https://www.github.com/looker-open-source/sdk-codegen/issues/811)) ([45fd26f](https://www.github.com/looker-open-source/sdk-codegen/commit/45fd26fb0f325fa90edfec72f835ed3a79b9afeb))
+
 ## [1.15.0](https://www.github.com/looker-open-source/sdk-codegen/compare/sdk-codegen-all-v1.14.0...sdk-codegen-all-v1.15.0) (2021-09-01)
 
 
